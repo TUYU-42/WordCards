@@ -1,0 +1,8 @@
+﻿abacus	ˋæbəkəs	Sound\A\abacus.wav	<aba-=abax-:一種計算工具>+<-us: calculus 小圓石>	一種利用小圓石幫助計算的工具
+abandon	əˋbændən	Sound\A\abandon.wav	<ab-: away>+<-band: bind 綁>	放棄、拋棄；離開原本綁住的事物
+abstract	ˋæbstrækt	Sound\A\abstract.wav	<ab-away>+<-tract: draw 拉>	抽象的；摘要；拉開後留下最精要的部分
+abound	əˋbaʊnd	Sound\A\abound.wav	<a-not>+<-und: wave>	大量存在、充滿
+ability	əˋbɪlətɪ	Sound\A\ability.wav	<able: 能夠>+<-ity: 名詞字尾>	能力；完成事情的力量
+abolish	əˋbɑlɪʃ	Sound\A\abolish.wav	<ab-away>+<-ol: old>	廢除；去掉舊的制度或規定
+abnormal	æbˋnɔrml	Sound\A\abnormal.wav	<ab-away>+<normal: 正常>	異常的；偏離正常狀態
+aboard	əˋbɔrd	Sound\A\aboard.wav	<a-on>+<board: 板、船>	在船上、飛機上或車上

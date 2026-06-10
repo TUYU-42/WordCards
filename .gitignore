@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.cache
+*.log
+*.nupkg
+packages/
+TestResults/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git folder should not be included in submitted zip
+.git/
