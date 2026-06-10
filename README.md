@@ -54,15 +54,7 @@ WordCards/
 
 ## 執行畫面
 
-![單字卡程式畫面](docs/screenshot_wordcards.png)
 
-## GitHub 注意事項
+<img width="896" height="522" alt="螢幕擷取畫面 2026-06-10 224233" src="https://github.com/user-attachments/assets/8fb28b58-b863-4c20-ad7a-d6ef5cb01f3e" />
+<img width="886" height="501" alt="螢幕擷取畫面 2026-06-10 224226" src="https://github.com/user-attachments/assets/92bab4a5-2f30-463e-8670-4981128dda12" />
 
-上傳 GitHub 前請不要提交以下資料夾：
-
-- `.vs/`
-- `bin/`
-- `obj/`
-- `.git/`（壓縮繳交時也不要放入）
-
-`.gitignore` 已經加入 Visual Studio 常見忽略規則。
